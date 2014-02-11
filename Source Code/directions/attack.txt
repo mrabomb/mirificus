@@ -1,0 +1,29 @@
+swing sword
+swing hammer
+sword
+hammer
+attack
+kill
+stab
+stab demon
+kill demon
+smash
+attack
+swing sword demon
+swing hammer demon
+sword demon
+hammer demon
+attack demon 
+kill the demon
+stab the demon
+smash the demon
+attack the demon
+swing sword demon
+swing hammer demon
+sword the demon
+hammer the demon
+attack the demon 
+kill the demon
+stab the demon
+smash the demon
+attack the demon

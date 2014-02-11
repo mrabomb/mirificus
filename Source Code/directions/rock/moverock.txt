@@ -1,0 +1,5 @@
+move rock
+push rock
+lift rock
+lift
+push

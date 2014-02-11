@@ -1,0 +1,8 @@
+use key door
+use key on door
+unlock door
+use key
+unlock
+key
+open
+alohamora

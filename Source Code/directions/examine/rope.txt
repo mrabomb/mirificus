@@ -1,0 +1,4 @@
+rope
+examine rope
+look at rope
+check out rope

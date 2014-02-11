@@ -1,0 +1,6 @@
+letter
+examine letter
+read letter
+examine paper
+read paper
+check paper

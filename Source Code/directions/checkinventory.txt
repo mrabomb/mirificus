@@ -1,0 +1,6 @@
+check inventory
+inventory
+look in inventory
+look at inventory
+look in bag
+check bag

@@ -1,0 +1,8 @@
+enter cave
+cave
+north
+n
+go north
+move north
+North
+Go North

@@ -1,0 +1,6 @@
+buy sword
+buy elvish sword
+purchase sword
+purchase elvish sword
+buy elven sword
+purchase elven sword

@@ -1,0 +1,11 @@
+take
+take kindling
+take sticks
+sticks
+kindling
+log
+take log
+logs
+take logs
+take firewood
+firewood

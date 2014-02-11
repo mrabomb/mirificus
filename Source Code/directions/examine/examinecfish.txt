@@ -1,0 +1,6 @@
+examine cooked fish
+examine fish
+inspect cooked fish
+inspect fish
+look at cooked fish
+look at cooked fish

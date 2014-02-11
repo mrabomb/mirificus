@@ -1,0 +1,6 @@
+burn tree
+burn fallen tree
+destroy tree
+light fire
+light tree on fire
+light tree

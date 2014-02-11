@@ -1,0 +1,9 @@
+take
+take shovel
+grab
+grab shovel
+remove shovel
+remove
+pick up
+pick up shovel
+take it

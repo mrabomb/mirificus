@@ -1,0 +1,12 @@
+take
+take box
+open box
+open gilded box
+take gilded box
+open
+look in box
+look in gilded box
+pick up box
+take it
+pick it up
+pick up

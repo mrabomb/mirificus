@@ -1,0 +1,9 @@
+dig
+use shovel on dirt
+dig stirred dirt
+dig dirt
+dirt
+dig turned soil
+turned soil
+soil
+dig with shovel

@@ -1,0 +1,6 @@
+pull
+pull lever
+lever
+change lever state
+change state
+pull the lever

@@ -1,0 +1,9 @@
+w
+west
+go west
+move west
+West
+go West
+move West
+go_west
+move_west

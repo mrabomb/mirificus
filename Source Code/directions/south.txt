@@ -1,0 +1,7 @@
+s
+south
+go south
+move south
+South
+go_south
+move_south

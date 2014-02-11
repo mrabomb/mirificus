@@ -1,0 +1,4 @@
+examine flashlight
+examine light
+look at flashlight
+look at light

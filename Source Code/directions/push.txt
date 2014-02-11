@@ -1,0 +1,8 @@
+push
+push demon
+shove
+shove demon
+kick
+kick demon
+punch
+punch demon

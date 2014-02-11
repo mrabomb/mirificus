@@ -1,0 +1,7 @@
+u
+up
+go up
+go_up
+climb
+climb up
+climb_up

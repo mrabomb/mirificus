@@ -1,0 +1,2 @@
+examine fishing rod
+examine fishing pole

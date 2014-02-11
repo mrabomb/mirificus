@@ -1,0 +1,7 @@
+d
+stairs
+go down
+go down stairs
+climb down stairs
+down
+go down

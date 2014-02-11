@@ -1,0 +1,5 @@
+use matches on kindling
+light torch
+make torch
+torch
+burn kindling

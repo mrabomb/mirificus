@@ -1,0 +1,7 @@
+n
+north
+go north
+move north
+North
+go_north
+move_north

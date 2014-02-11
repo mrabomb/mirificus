@@ -1,0 +1,7 @@
+e
+east
+go east
+move east
+East
+go_east
+move_east
